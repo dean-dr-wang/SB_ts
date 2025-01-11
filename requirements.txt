@@ -3,5 +3,3 @@ pandas
 plotly
 prophet
 numpy
-datetime
-time
